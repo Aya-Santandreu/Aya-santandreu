@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🎯 About Me
 
-<!--
-**Aya-Santandreu/Aya-santandreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning: B.Sc. in Computer Science at The Open University.
+- 🚀 Always excited about solving complex problems.
+- 📫 Reach me at: [Email](mailto:ayasant8@gmail.com) 
 
-Here are some ideas to get you started:
+## Education 🎓
+- B.Sc. student in Computer Science at The Open University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Technologies & Tools I Work With 🔧
+- **Languages:**
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+
+## Projects
+- **Assembler in C** – Built an assembler from scratch in C as a personal project.
+
+## Let's Connect 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-santandreu-bba765251/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayasant8@gmail.com)
